@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/website12/databases/yemektarif",
+      "type": "mssql.azure",
+      "connectionId": "tcp:website12.database.windows.net",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

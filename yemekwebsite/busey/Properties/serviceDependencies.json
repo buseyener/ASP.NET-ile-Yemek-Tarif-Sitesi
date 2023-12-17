@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "tcp:website12.database.windows.net"
+    }
+  }
+}
