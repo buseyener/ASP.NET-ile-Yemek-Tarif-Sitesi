@@ -5,10 +5,14 @@ Uygulamada 4 ana menü olup yan menüde ise kategoriler yer almaktadır. Tüm ta
 İletişim bölümünde ise ulaşım için mail,telefon ve adresi yer almaktadır.
 
 Aşağıda ise web sitesinin ana  menü ve yan menüsünün sayfaları  bulunmaktadır:
+
 ![image](https://github.com/buseyener/ASP.NET-ile-Yemek-Tarif-Sitesi/assets/119698903/57f56383-06ea-423b-a7c7-75b31b70cf10)
 
 
 Veritabanı olarak SQL Server Management kullandım. Aşağıdaki görselde İlişkisel veri tabanının diyagramı yer almaktadır:
+
+
+
 ![image](https://github.com/buseyener/ASP.NET-ile-Yemek-Tarif-Sitesi/assets/119698903/7cffc405-1ac8-47fa-b9f4-078cf609cb1d)
 
 
